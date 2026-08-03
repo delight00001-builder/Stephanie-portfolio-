@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Stephanie | Web3 Content Creator</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav>
+
+<div class="logo">
+Stephanie
+</div>
+
+<ul>
+<li><a href="#about">About</a></li>
+<li><a href="#skills">Skills</a></li>
+<li><a href="#portfolio">Portfolio</a></li>
+<li><a href="#contact">Contact</a></li>
+</ul>
+
+</nav>
+
+<header class="hero">
+
+<h1>
+Stephanie
+</h1>
+
+<p>
+Helping Web3 brands grow through engaging educational content, community storytelling and organic marketing.
+</p>
+
+<div class="buttons">
+
+<a class="primary" href="https://x.com/stephiniweb3" target="_blank">
+View X Profile
+</a>
+
+<a class="secondary" href="#portfolio">
+View Portfolio
+</a>
+
+</div>
+
+<div class="stats">
+
+<div>
+<h2>40K+</h2>
+<p>Highest Post Views</p>
+</div>
+
+<div>
+<h2>5+</h2>
+<p>Campaigns</p>
+</div>
+
+<div>
+<h2>100%</h2>
+<p>Community Focus</p>
+</div>
+
+</div>
+
+</header>
+
+<section id="about">
+
+<h2>About</h2>
+
+<p>
+Passionate Web3 content creator specializing in educational threads, marketing campaigns and community growth for blockchain startups.
+</p>
+
+</section>
+
+<section id="skills">
+
+<h2>Skills</h2>
+
+<div class="grid">
+
+<div class="card">Content Creation</div>
+
+<div class="card">Copywriting</div>
+
+<div class="card">Community Growth</div>
+
+<div class="card">Social Media Management</div>
+
+<div class="card">Web3 Marketing</div>
+
+<div class="card">Content Writing</div>
+
+</div>
+
+</section>
+
+<section id="portfolio">
+
+<h2>Selected Work</h2>
+
+<div class="portfolio-grid">
+
+<div class="portfolio-card">
+<h3>Bitcoin Utility on XRPL</h3>
+<p>40K+ views</p>
+</div>
+
+<div class="portfolio-card">
+<h3>The Community is the Product</h3>
+<p>3.9K views</p>
+</div>
+
+<div class="portfolio-card">
+<h3>XORA Finance Built For What's Next</h3>
+<p>3.8K views</p>
+</div>
+
+<div class="portfolio-card">
+<h3>AurixSystem Community</h3>
+<p>Recognized and followed by Aurix official account.</p>
+</div>
+
+</div>
+
+</section>
+
+<section id="contact">
+
+<h2>Let's Work Together</h2>
+
+<p>Email</p>
+
+<a href="mailto:stephiniweb3@gmail.com">
+stephiniweb3@gmail.com
+</a>
+
+<br><br>
+
+<a href="https://x.com/stephiniweb3" target="_blank">
+@stephiniweb3
+</a>
+
+</section>
+
+<footer>
+
+© 2026 Stephanie • Web3 Content Creator
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
