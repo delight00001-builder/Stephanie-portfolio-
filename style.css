@@ -1122,3 +1122,79 @@ color:#d1c7d8;
 
 }
 }
+/* Ecosystem Section */
+
+.ecosystem{
+
+padding:120px 8%;
+
+}
+
+
+.category-grid{
+
+display:grid;
+
+grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+
+gap:30px;
+
+margin-top:40px;
+
+}
+
+
+
+.category-card{
+
+padding:45px;
+
+border-radius:30px;
+
+background:
+
+linear-gradient(
+135deg,
+rgba(255,105,180,.14),
+rgba(168,85,247,.10)
+);
+
+border:1px solid rgba(255,255,255,.12);
+
+backdrop-filter:blur(20px);
+
+transition:.4s;
+
+}
+
+
+
+.category-card:hover{
+
+transform:translateY(-12px);
+
+box-shadow:
+
+0 25px 60px rgba(255,105,180,.25);
+
+}
+
+
+
+.category-card h3{
+
+font-size:2rem;
+
+color:#ff9bd2;
+
+margin-bottom:15px;
+
+}
+
+
+
+.category-card p{
+
+color:#d1c7d8;
+
+}
