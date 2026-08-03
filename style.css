@@ -1303,5 +1303,82 @@ transform:translateY(80px);
 }
 
   }
+  /* CTA Banner */
+
+.cta{
+
+margin:80px 8%;
+
+padding:70px 40px;
+
+text-align:center;
+
+border-radius:35px;
+
+background:
+
+linear-gradient(
+135deg,
+rgba(255,105,180,.18),
+rgba(168,85,247,.15)
+);
+
+border:1px solid rgba(255,255,255,.15);
+
+backdrop-filter:blur(20px);
+
+}
+
+
+
+.cta h2{
+
+font-size:3rem;
+
+margin-bottom:20px;
+
+background:
+
+linear-gradient(
+90deg,
+#ffffff,
+#ff9bd2
+);
+
+-webkit-background-clip:text;
+
+color:transparent;
+
+}
+
+
+
+.cta p{
+
+max-width:650px;
+
+margin:auto;
+
+color:#d1c7d8;
+
+font-size:1.1rem;
+
+}
+
+
+
+.cta-buttons{
+
+margin-top:35px;
+
+display:flex;
+
+justify-content:center;
+
+gap:20px;
+
+flex-wrap:wrap;
+
+}
 
 }
